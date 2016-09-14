@@ -23,7 +23,12 @@ This is a title example
 <p><div align = left>This is the last paragrph for this basic webpage</p>
 
 <h1><div align = left>This is a picture link</h1>
-<div align = left><a href="html.jpg">Image</a></a>
+<div align = left><a href="CNRkAuoWgAE2QCi.jpg">Image</a></a>
+
+<h1><div align = center>This will link to Mikes Webpage</h1>
+<div align = center><a href="https://mikekarolewski.github.io">Image</a></a>
+
+
 
 </body>
 </html>
